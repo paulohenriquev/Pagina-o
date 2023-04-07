@@ -1,0 +1,17 @@
+.paginacaonumeros {
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    color: rgb(115, 22, 202);
+    border-radius: 3px;
+    border: 2px solid rgb(115, 22, 202);
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: large; 
+}
+
+div:hover{
+    background-color: rgb(115, 22, 202);
+    color: white;
+}
